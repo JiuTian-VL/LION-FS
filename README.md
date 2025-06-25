@@ -44,11 +44,12 @@ The whole framework of LION-FS:
 If you find this work useful for your research, please kindly cite our paper:
 
 ```
-@inproceedings{chen2024lion,
-    title={LION-FS: Fast &amp; Slow Video-Language Thinker as Online Video Assistant}, 
-    author={Li, Wei and Hu, Bing and Shao, Rui and Shen, Leyang and Nie, Liqiang},
-    booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2025}
+@inproceedings{li2025lion,
+  title={Lion-fs: Fast \& slow video-language thinker as online video assistant},
+  author={Li, Wei and Hu, Bing and Shao, Rui and Shen, Leyang and Nie, Liqiang},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={3240--3251},
+  year={2025}
 }
 ```
 
