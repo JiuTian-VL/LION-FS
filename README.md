@@ -8,7 +8,7 @@
     <a href="https://scholar.google.com/citations?user=rxaiRMUAAAAJ" target="_blank">Bing Hu</a>,
     <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao*</a>,
     <a href="https://www.slywiki.cn/" target="_blank">Leyang Shen</a>,
-    <a href="http://faculty.hitsz.edu.cn/guanweili" target="_blank">Liqiang Nie</a>
+    <a href="https://liqiangnie.github.io/" target="_blank">Liqiang Nie</a>
 </div>
 
 School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen<br>
@@ -21,7 +21,16 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 
 </div>
 
-## :fire: If you find this work useful for your research, please kindly cite our paper and star our repo.
+<h3 align="center">
+<strong>
+🔥LION-FS is accepted to CVPR 2025!🔥
+<br>
+⭐ Give us a star if you like it! ⭐
+<br>
+✨If you find this work useful for your research, please kindly cite our paper.✨
+</strong>
+</h3>
+
 
 ## :fire: Updates
 - [12/2025] Code released. Enjoy it!
@@ -65,7 +74,7 @@ sh scripts/ego_exo4d/train.sh
 showcasing its advanced capabilities in language modeling and temporal alignment.
 
 <div align="center">
-<img src='assets/main.png' width='100%'>
+<img src='assets/main.png' width='70%'>
 </div>
 
 **Ablation Study on Token Aggregation Router.** 
@@ -73,7 +82,7 @@ Experiments show that SigLIP
 outperforms EgoVLPv2 in LL-PPL and TimeDiff, while
 EgoVLPv2 excels in Fluency and LM-Correctness. These
 findings highlight the limitations of using on a single visual
-encoder, as it cannot provide comprehensive visual information. Features from two different encoders can complement each other, offering a more complete representation
+encoder, as it cannot provide comprehensive visual information. Features from two different encoders can complement each other, offering a more complete representation.
 <div align="center">
 <img src='assets/TokenAggregationRouter.png' width='100%'>
 </div>
